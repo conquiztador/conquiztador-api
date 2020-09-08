@@ -1,0 +1,6 @@
+db.sqlite3
+local.py
+.vscode
+*.pyc
+*.mo
+media/
